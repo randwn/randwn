@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @randwn
 - 👀 I’m interested in ... whatever
 - 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... no one
+- 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... you cant
 
 <!---
