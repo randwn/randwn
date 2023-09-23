@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @randwn
-- 👀 I’m interested in ... whatever
-- 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... you cant
+- 👀 I’m interested in ... yes
+- 🌱 I’m currently learning ... THIS
+- 💞️ I’m looking to collaborate on ... roblox
+- 📫 How to reach me ... you cant 4 now
 
 <!---
 randwn/randwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
